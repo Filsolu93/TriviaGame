@@ -1,0 +1,14 @@
+body{
+    background-image:url('../images/025620cd7c9df96.jpg');
+        text-align: center;
+    }
+    
+    .text-muted{
+        color: green;
+    }
+    .last-seconds{
+      color: red;
+    }
+    .option{
+      margin: 15px;
+    }
